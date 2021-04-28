@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/8413791/88034685-9f268200-cb73-11ea-83ce-32a4f232eec1.png)
+
+![img src="https://github-readme-stats.vercel.app/api?username=Xiaohufight&&show_icons=true&&theme=tokyonight"]
 
 ```
                        _oo0oo_
